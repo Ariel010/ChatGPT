@@ -1,7 +1,7 @@
 import openai
 
 
-openai.api_key = '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'
+openai.api_key = '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'
 
 while True: 
 
