@@ -1,7 +1,7 @@
 # Chatgpt desde python, la API_Key se obtiene desde la pagina de openai
 
 Introducción
-Puede interactuar con la API a través de solicitudes HTTP desde cualquier idioma, a través de nuestros enlaces oficiales de Python, nuestra biblioteca oficial de Node.js o una biblioteca mantenida por la comunidad .
+Puede interactuar con la API a través de solicitudes HTTP desde cualquier idioma, a través de los enlaces oficiales de Python, la biblioteca oficial de Node.js o una biblioteca mantenida por la comunidad .
 
 Para instalar los enlaces oficiales de Python, ejecute el siguiente comando:
 
