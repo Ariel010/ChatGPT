@@ -1,7 +1,9 @@
+# Key se obtiene en https://platform.openai.com/docs/api-reference
+# en personal ---> View API Keys ---> create new secret key
 import openai
 
 
-openai.api_key = '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'
+openai.api_key = 'Key'
 
 while True: 
 
